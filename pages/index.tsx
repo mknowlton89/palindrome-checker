@@ -1,7 +1,7 @@
 import type { NextPage } from 'next'
 import Head from 'next/head'
 import Image from 'next/image'
-import { PalindomeChecker } from '../Components/PalindomeChecker'
+import { PalindomeChecker } from '../Components/PalindromeChecker'
 import styles from '../styles/Home.module.css'
 
 const Home: NextPage = () => {
